@@ -1,4 +1,5 @@
 numpy
 matplotlib
 scikit_image
+scikit_learn
 nimfa
