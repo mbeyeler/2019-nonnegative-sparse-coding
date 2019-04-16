@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/181531392.svg)](https://zenodo.org/badge/latestdoi/181531392)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbeyeler/2019-nonnegative-sparse-coding/master)
 
 
