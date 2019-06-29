@@ -6,7 +6,7 @@
 
 This repository contains code to produce some of the figures in the following paper:
 
-M Beyeler&ast;, EL Rounds&ast;, KD Carlson, N Dutt, JL Krichmar (2019). Neural correlates of sparse coding and dimensionality reduction. *PLOS Computational Biology*, doi:[10.1371/journal.pcbi.1006908](https://doi.org/10.1371/journal.pcbi.1006908). (&ast;equal contribution)
+M Beyeler&ast;, EL Rounds&ast;, KD Carlson, N Dutt, JL Krichmar (2019). Neural correlates of sparse coding and dimensionality reduction. *PLOS Computational Biology* 15(6): e1006908, doi:[10.1371/journal.pcbi.1006908](https://doi.org/10.1371/journal.pcbi.1006908). (&ast;equal contribution)
 
 - [Fig. 1B](https://github.com/mbeyeler/2019-nonnegative-sparse-coding/blob/master/fig1B-PCA-vs-NMF.ipynb): PCA and NMF applied to the CBCL face dataset.
 - [Fig. 2](https://github.com/mbeyeler/2019-nonnegative-sparse-coding/blob/master/fig2-efficient-coding.ipynb): Schematic of the efficient coding hypothesis.
